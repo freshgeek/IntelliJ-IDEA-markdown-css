@@ -4,9 +4,8 @@
 IntelliJ IDEA 中markdown 语法的css 样式 
 
 #### 软件架构
-- ![雅黑-橙绿色调]()
-![样例](雅黑-橙绿色调)
-
+- [雅黑-橙绿色调](https://gitee.com/pocg/intelli-j-idea-markdown-css/tree/master/%E9%9B%85%E9%BB%91-%E6%A9%99%E7%BB%BF%E8%89%B2%E8%B0%83)
+- ...
 
 #### 使用说明
 
