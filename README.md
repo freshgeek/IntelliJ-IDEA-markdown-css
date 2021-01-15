@@ -4,20 +4,16 @@
 IntelliJ IDEA 中markdown 语法的css 样式 
 
 #### 软件架构
-软件架构说明
+- ![雅黑-橙绿色调]()
+![样例](雅黑-橙绿色调)
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  idea 中安装 markdown 插件
+2.  打开设置(File - setting) ,搜索markdown
+![](usage.png)
+3.  把项目中对应的css路径复制到上面的链接中即可
 
 #### 参与贡献
 
