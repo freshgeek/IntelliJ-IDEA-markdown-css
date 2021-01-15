@@ -19,7 +19,7 @@ IntelliJ IDEA 中markdown 语法的css 样式
 
 1.  欢迎各路css设计大神Fork 本仓库
 2.  新建 Feat_xxx 分支
-3.  提交代码(注意按照不同风格新建名字目录,目录下包含:style.css,demo.png,README.md 三个文件)
+3.  提交代码(注意按照不同风格新建名字目录,目录下包含:style.css,demo.png,README.md 三个文件,其中内容演示![template.md](template.md)的效果截图)
 4.  新建 Pull Request
 
 
